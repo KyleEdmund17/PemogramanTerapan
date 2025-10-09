@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #fafafa;
+  font-family: 'Rubik', sans-serif;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 28px;
+  box-shadow: 0 2px 24px rgba(0,0,0,0.13);
+  overflow: hidden;
+  position: relative;
+}
+
+.header {
+  text-align: center;
+  padding: 96px 0 42px 0;
+  background: #fff;
+}
+
+.header h1 {
+  color: #243734;
+  font-size: 2.7rem;
+  font-weight: 500;
+  margin-bottom: 12px;
+  letter-spacing: 2px;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #243734;
+  font-weight: 400;
+  margin-bottom: 36px;
+}
+
+.start-btn {
+  background: #243734;
+  color: #fff;
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.1rem;
+  padding: 14px 44px;
+  border: none;
+  border-radius: 24px;
+  cursor: pointer;
+  margin-bottom: 24px;
+  box-shadow: 0 4px 14px rgba(36,55,52,0.10);
+  transition: background 0.2s;
+}
+
+.start-btn:hover {
+  background: #38655e;
+}
+
+.gallery {
+  overflow-x: auto;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+  gap: 28px;
+  padding: 42px 0 48px 0;
+  background: #fff;
+  display: flex;
+}
+
+.music-img {
+  height: 210px;
+  width: auto;
+  object-fit: cover;
+  border-radius: 14px;
+  box-shadow: 0 2px 14px rgba(0,0,0,0.06);
+  background: #e6e6e6;
+  flex-shrink: 0;
+  display: inline-block;
+}
+
