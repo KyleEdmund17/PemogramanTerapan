@@ -74,3 +74,10 @@ Alur Pengguna
 3. Pengguna mungkin langsung menuju Arsip Musik untuk mulai memfilter dan memutar koleksi.
 4. Atau, pengguna yang kembali bisa langsung menuju Favorit untuk memutar daftar putar pribadinya.
 
+Kendala Tim yang ditemukan: 
+1. Masalah waktu untuk melakukan kerja kelompok
+2. Masalah sudut pandang tiap orang untuk membuat design
+
+Solusi yang ditemukan: 
+1. Berusaha mengosongkan waktu di hari tertentu untuk berdiskusi dan melakukan kerja kelompok
+2. Brainstorming bareng dan komunikasi untuk mencari design yang pas untuk di kerjakan
