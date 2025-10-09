@@ -74,10 +74,20 @@ Alur Pengguna
 3. Pengguna mungkin langsung menuju Arsip Musik untuk mulai memfilter dan memutar koleksi.
 4. Atau, pengguna yang kembali bisa langsung menuju Favorit untuk memutar daftar putar pribadinya.
 
-Kendala Tim yang ditemukan: 
-1. Masalah waktu untuk melakukan kerja kelompok
-2. Masalah sudut pandang tiap orang untuk membuat design
+📈 Kegiatan yang Telah Dikerjakan
+1. Membuat konsep Beranda, Arsip Musik, Menu Utama secara verbal dan diaplikasikan ke Figma supaya mendapatkan referensi
+2. Membuat codingan html sementara untuk beranda
 
-Solusi yang ditemukan: 
-1. Berusaha mengosongkan waktu di hari tertentu untuk berdiskusi dan melakukan kerja kelompok
-2. Brainstorming bareng dan komunikasi untuk mencari design yang pas untuk di kerjakan
+⚙ Kendala yang Ditemui
+1. Keterbatasan waktu antar anggota tim untuk melakukan kerja kelompok karena jadwal pribadi yang berbeda.
+2. Perbedaan sudut pandang desain antartim dalam menentukan konsep tampilan dan gaya visual platform.
+
+💡 Solusi yang Ditemukan
+1. Penjadwalan ulang pertemuan tim dengan cara menentukan satu hari khusus setiap minggu untuk berdiskusi dan bekerja bersama.
+2. Melakukan brainstorming dan komunikasi terbuka agar semua ide dapat disatukan dan diambil keputusan desain yang terbaik dan disepakati bersama.
+
+📍 Rencana Selanjutnya
+1. Melanjutkan proses untuk week-5.
+2. Membuat halaman arsip music dengan daftar musik tradisional.
+
+   LINK FIGMA : https://www.figma.com/design/24khnvIbaBCgvEew0rtXfq/Irantara--Irama-Nusantara-?node-id=0-1&t=2HMXCR61eZMsIClJ-1
