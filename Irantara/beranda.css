@@ -54,6 +54,8 @@ body {
   background: #38655e;
 }
 
+
+
 .gallery {
   overflow-x: auto;
   white-space: nowrap;
@@ -74,4 +76,3 @@ body {
   flex-shrink: 0;
   display: inline-block;
 }
-
