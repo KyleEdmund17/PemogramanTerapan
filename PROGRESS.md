@@ -90,8 +90,11 @@ Alur Pengguna
 1. Melanjutkan proses untuk week-5.
 2. Membuat halaman arsip music dengan daftar musik tradisional.
 
-   LINK FIGMA : https://www.figma.com/design/24khnvIbaBCgvEew0rtXfq/Irantara--Irama-Nusantara-?node-id=0-1&t=2HMXCR61eZMsIClJ-1
+LINK FIGMA : https://www.figma.com/design/24khnvIbaBCgvEew0rtXfq/Irantara--Irama-Nusantara-?node-id=0-1&t=2HMXCR61eZMsIClJ-1
 
 # 📌 Progres Minggu Ke-5
 Pada minggu ke-5 ini Tim menyusun halaman menu utama mulai dari beranda dan menu utama, di beranda terdapat tombol start dan carousel, kemudian di Menu Utama ada navbar yang berisi Arsip Musik,
 Playlist, Profil Musisi, Tentang Aplikasi, dan search Navbar
+
+# 📌 Progres Minggu Ke-6
+Pada minggu ke-6, progress tim kami membuat halaman login, halaman untuk membuat akun, yang mana nanti akan disambungkan dengan database, agar data" user tersimpan. 
