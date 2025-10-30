@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Playlistku — Nusantara Beats</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="logo"><div class="dot">NB</div>Nusantara Beats</div>
+      <nav>
+        <a class="nav-item" href="index.html">Discover</a>
+        <a class="nav-item" href="playlist.html">Playlistku</a>
+      </nav>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <h2>Playlistku</h2>
+      </header>
+
+      <section class="content" style="grid-template-columns:1fr;gap:18px;padding:0 22px;">
+        <div class="card" id="playlist-content">
+          <h3>Playlist Tersimpan</h3>
+          <div id="items" style="margin-top:12px"></div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <audio id="audio" crossorigin="anonymous"></audio>
+  <script src="playlist.js"></script>
+</body>
+</html>
