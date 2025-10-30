@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Gending Pawuh",
+    "artist": "Gamelan Kraton",
+    "region": "Jawa Tengah",
+    "thumb": "assets/img/gamelan.jpg",
+    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Angklung Sabilulungan",
+    "artist": "Angklung Orchestra",
+    "region": "Jawa Barat",
+    "thumb": "assets/img/angklung.jpg",
+    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Kolintang Rindu",
+    "artist": "Kolintang Ensemble",
+    "region": "Sulawesi Utara",
+    "thumb": "assets/img/kolintang.jpg",
+    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Sasando Nyanyian",
+    "artist": "Sasando Solo",
+    "region": "Nusa Tenggara Timur",
+    "thumb": "assets/img/sasando.jpg",
+    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Gamelan Bali",
+    "artist": "Gamelan Bali",
+    "region": "Bali",
+    "thumb": "assets/img/bali.jpg",
+    "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+  }
+]
